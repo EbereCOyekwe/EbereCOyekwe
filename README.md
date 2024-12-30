@@ -34,7 +34,7 @@ As a tech leader, I specialize in guiding teams to success by combining strategi
 
 ## 🏗️ Featured Projects  
 - [**AI-Driven Content Aggregator**](https://github.com/username/project1): Automated research aggregation system with AI-powered content filtering and client matching.  
-- [**Real-Time Data Pipeline Optimization**](https://github.com/username/project2): End-to-end pipeline solution for processing high-volume transportation data, improving operational efficiency.  
+- [**Real-Time Data Pipeline Optimization**](https://github.com/EbereCOyekwe/Data_Pipelines1): End-to-end pipeline solution for processing high-volume transportation data, improving operational efficiency.  
 - [**Custom AI Chatbot for Business Insights**](https://github.com/username/project3): Built and deployed a chatbot integrated with OpenAI to assist in real-time decision-making.  
 
 ---
